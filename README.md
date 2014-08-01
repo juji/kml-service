@@ -1,9 +1,8 @@
 kml-service
 ===========
 
-kml generator script in kmlservice.pythonanywhere.com
+kml generator script in kmlservice.pythonanywhere.com and kml.jujiyangasli.com
 
-<br />
 ###query
 **ll**: latitude,longitude (e.g. 12.345345,134.3454545)
 <br />
